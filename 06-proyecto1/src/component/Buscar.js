@@ -60,7 +60,7 @@ export const Buscar = ({listadoState, setListadoState}) => {
                           onChange={buscarPeli}
                   />
 
-                    <br/><br/>
+                    <br/><br/><br/>
                 </form>
              </div>
   )
